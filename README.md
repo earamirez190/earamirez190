@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+:computer: ""Ingeniero de Sistemas**
+:pencil: ""Líder técnico y Arquitecrto de soluciones**
+
+
 <!--
 **earamirez190/earamirez190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
