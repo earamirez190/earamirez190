@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 :computer: ""Ingeniero de Sistemas**
 :pencil: ""Líder técnico y Arquitecrto de soluciones**
 
